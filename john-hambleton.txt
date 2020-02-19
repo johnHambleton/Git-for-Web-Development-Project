@@ -20,7 +20,7 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     img, src
 
     6. What do we put in the head of our HTML document? 
-    a <head> tag
+    metadata such as a title, language, script, styles
 
     7. What is an id? 
     an attribute that points to specific spot in your html and canot be use more than once
@@ -66,13 +66,13 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     .
 
     21. How do we select a p element with a single class of “human””?
-    .human 
+    p .human 
 
     22. What is a parent child selector? When would this be useful? 
     It is a selector with in another.  It can be useful to place a link within a paragraph
     
     23. How do you select all links within a div with the class of sidebar?
-    .sidebar links {}
+    div .sidebar links {}
 
     24. What is a pseudo selector?
     selctor that creates conditional elements. :hover 
